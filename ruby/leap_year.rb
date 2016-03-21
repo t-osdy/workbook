@@ -18,9 +18,9 @@ end
 
 def display_print(num, leap_flag)
   if leap_flag == true
-    puts "#{num}はうるう年です"
+    puts "#{num}年はうるう年です"
   else
-    puts "#{num}はうるう年ではありません"
+    puts "#{num}年はうるう年ではありません"
   end
 end
 
